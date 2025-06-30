@@ -1,6 +1,7 @@
+package src.numbers_math;
 //this program is to check the leap year 
 
-public class divisible_number1 {    
+public class check_divisible_by_5_and_11 {    
     
     public static void main(String[] args) {
      
