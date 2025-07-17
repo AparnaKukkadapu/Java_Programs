@@ -1,5 +1,5 @@
 package src.arrays;
-class Main {
+class largest_element_array {
     public static void main(String[] args) {
                
         int a[]={20,30,90,40,350,50,60,70,150,200};
